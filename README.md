@@ -16,4 +16,5 @@
 1. Arduino nano
 2. LCD for displaying
 3. Hall effect sensor (49E) / magnetic sensor
-4. jumpers 
+4. 3 small magnets
+5. jumpers 

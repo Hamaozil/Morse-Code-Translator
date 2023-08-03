@@ -10,7 +10,7 @@
 1. for getting data from Arduino serial :
   - `pip install pyserial`
 2. for saying letters or words :
-   -`pip install pyttsx3`
+  - `pip install pyttsx3`
 
 ## Hardware used :
 1. Arduino nano
